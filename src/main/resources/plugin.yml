@@ -1,0 +1,4 @@
+name: RapidBow
+version: 1.0
+main: com.waike.rapidbow.RapidBow
+api-version: 1.21
